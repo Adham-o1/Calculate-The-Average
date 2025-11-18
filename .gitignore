@@ -1,0 +1,15 @@
+# VS Code settings
+.vscode/
+
+# Executables
+*.exe
+*.out
+
+# Build folders
+build/
+Debug/
+Release/
+
+# Object files
+*.o
+*.obj
